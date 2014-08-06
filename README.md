@@ -21,5 +21,5 @@ and edit watching files.
 
 ##output
 
-* build/index.min.css
-* build/index.min.js
+* build/index.css
+* build/index.js
